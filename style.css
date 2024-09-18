@@ -1,0 +1,17 @@
+body{
+    background-color: #1B244A;
+
+}
+
+.team{
+    color:white
+}
+
+.scoreboard{
+    background-color: black;
+    color: #F94F6D;
+    text-align: center;
+    border-radius: 5px;
+    width:155px;
+    height:120px;
+}
